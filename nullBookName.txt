@@ -1,0 +1,18 @@
+Person Details:
+First Name - Dipali
+Last Name - Sonawane
+Phone Number - 7757877
+Email - diali@gmail.com
+Address - 
+City - jalgaon
+State - maharashtra
+Zip Code - 425001
+Person Details:
+First Name - Kunal
+Last Name - Sonawane
+Phone Number - 7757877309
+Email - kunal@gmail.com
+Address - 
+City - jalgaon
+State - maharashtra
+Zip Code - 425001
